@@ -1,0 +1,14 @@
+- category: Languages
+  items: Kotlin, Java, C#, SQL, Transact-SQL, JavaScript, Bash, VB Script, VBA
+
+- category: Software
+  items: IntelliJ IDEA, Visual Studio, Git, SQL Server
+
+- category: Systems
+  items: Linux, Windows desktop and server
+
+- category: Other
+  items: OO Design & Programming, Data modeling, Relational Databases, Debugging, Accounting
+
+- category: Certification
+  items: AWS Cloud Practitioner, Microsoft Azure Fundamentals

@@ -1,0 +1,75 @@
+- title: Software Engineer
+  employer: Self Employed
+  startDate: 2021
+  endDate: current
+  location: Golden, CO
+  details:
+    - Designed and built IntelliJ code generation plugin currently available on the JetBrains Marketplace
+    - Designed, built, and released JDBC metadata library on Maven Central
+
+- title: Software Engineer
+  employer: Self Employed
+  startDate: 2008
+  endDate: 2016
+  location: Seattle, WA
+  details:
+    - Developed ASP.NET MVC based environmental chemistry risk calculation application
+    - Designed and developed mink habitat and life-cycle simulation model using VBA/Excel
+    - Developed environmental data management and analysis ASP.NET intranet site
+    - Designed and implemented changes to Windward Environmental's reporting tool to accommodate changing business requirements and regulations
+    - Integrated copy protection library into commercial blu-ray authoring software
+    - Developed Bash scripts to automate configuration of Linux system for xray inspection tools
+
+- title: Software Developer
+  employer: Windward Environmental
+  startDate: 2001
+  endDate: 2008
+  location: Seattle, WA
+  details:
+    - Designed and built environmental reporting and analysis application using Microsoft SQL Server and .Net Windows Forms that reduced report execution times by more than 90%
+    - Automated GIS shape file processing for environmental scenario mapping and analysis
+    - Developed habitat comparison model to support habitat restoration planning
+    - Developed analytical and reporting database queries in SQL Server
+    - Developed ETL scripts and tools for data cleaning and import
+    - Built and supported Microsoft Windows 2000 network with Microsoft Exchange, Microsoft SQL Server, Microsoft ISA, file server, and remote access services
+
+- title: Software Developer
+  employer: Appendix A/Rolling Bay Software
+  startDate: 1999
+  endDate: 2001
+  location: Seattle, WA
+  details:
+    - Developed multi-tenant collaboration web site using Java Server Pages and Microsoft SQL Server to provide private workspaces for environmental remediation project planning
+    - Developed reporting module for multi-tier environmental data management system
+    - Developed GIS module using Esri ArcGIS for multi-tier environmental data management system
+    - Tested, debugged, and improved performance of environmental data management system
+    - Developed distributed system for project management workload forecasting and tracking
+
+- title: Network Administrator
+  employer: The American Alpine Club
+  startDate: 1997
+  endDate: 1998
+  location: Golden, CO
+  details:
+    - Designed, implemented, and maintained Windows NT network using Microsoft BackOffice Small Business Server
+
+- title: Accountant
+  employer: The American Alpine Club
+  startDate: 1994
+  endDate: 1998
+  location: Golden, CO
+  details:
+    - Performed all accounting functions for $8 million non-profit organization.
+    - Restructured accounting system using Peachtree Accounting for Windows.
+    - Streamlined accounting procedures resulting in 50% timesaving while company growth exceeded 100%.
+    - Assisted in preparation of annual $1 million operating budget.
+    - Prepared all reports for year-end audits.
+    - Developed new internal control procedures to correct accounting weaknesses and improve customer service.
+
+- title: Accountant
+  employer: Various Temp Assignments
+  startDate: 1992
+  endDate: 1993
+  location: Seattle, WA
+  details:
+    - Washington Mutual Bank&#58; Prepared journal entries daily to clear Suspense Accounts and maintain balanced system for two companies.

@@ -1,0 +1,25 @@
+{
+  "links": [
+    {
+      "title": "Mastodon",
+      "icon": "fa-brands fa-mastodon",
+      "url": "https://techhub.social/@warrengates",
+      "rel": "me"
+    },
+    {
+      "title": "GitHub",
+      "icon": "fa-brands fa-github",
+      "url": "https://github.com/warren-gates"
+    },
+    {
+      "title": "LinkedIn",
+      "icon": "fa-brands fa-linkedin",
+      "url": "https://www.linkedin.com/in/warren-gates"
+    },
+    {
+      "title": "Email",
+      "icon": "fa-solid fa-envelope",
+      "url": "mailto:warren@warrengates.dev"
+    }
+  ]
+}

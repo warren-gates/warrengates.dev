@@ -1,0 +1,142 @@
+/* ==========================================================================
+   11. Resume
+   ========================================================================== */
+
+//@import url('https://themes.googleusercontent.com/fonts/css?kit=xTOoZr6X-i3kNg7pYrzMsnEzyYBuwf3lO_Sc3Mw9RUVbV0WvE1cEyAoIq5yYZlSc');
+
+/*
+https://stackoverflow.com/questions/15589860/how-can-i-get-a-div-content-to-print-in-the-center-of-a-8-5x11-sheet-of-paper
+https://sympli.io/blog/a-quick-guide-to-css-for-printable-webpages
+*/
+@media print {
+  .resume {
+    position:absolute;
+    width:504pt;
+    /* height:300px; */
+    z-index:15;
+    /* top:50%; */
+    left:50%;
+    margin: 0 0 0 -252pt;
+  }
+  header, footer {
+    visibility: hidden;
+  }
+}
+
+.resume {
+  display: grid;
+  grid-template-columns: 144pt 352.8pt;
+  gap: 7.2pt;
+}
+
+.jobdetails {
+  padding-bottom: 4pt;
+  margin: 0;
+}
+
+.jobtitle {
+  font-weight: bold;
+  text-align: left;
+  margin: 0;
+}
+
+.jobemployer {
+  margin: 0;
+}
+
+.jobdates {
+  font-size: small;
+  padding-bottom: 4pt;
+  margin: 0;
+}
+
+.skillblock {
+  padding-bottom: 8pt;
+  margin: 0;
+}
+
+.skilltype {
+  font-weight: bold;
+  margin: 0;
+}
+
+.resume__category_name {
+  padding: 3.6pt 3.6pt 3.6pt 3.6pt;
+  vertical-align: top;
+  font-size: 1.5rem;
+  font-family: "Lato", sans-serif;
+}
+
+.resume__category_contents {
+  margin-right: 38.4px;
+  padding: 3.6pt 3.6pt 3.6pt 3.6pt;
+  border-top-style: solid;
+  border-top-width: 2pt;
+  border-top-color: #738FA7;
+}
+
+.c7 {
+  padding-top: 0;
+  padding-bottom: 0;
+  line-height: 1.0;
+  page-break-after: avoid;
+  text-align: left
+}
+
+.title {
+  /* padding-top: 6pt; */
+  color: #000000;
+  font-weight: 700;
+  font-size: 18pt;
+  padding-bottom: 0;
+  font-family: "Raleway", sans-serif;
+  line-height: 1.0;
+  page-break-after: avoid;
+  orphans: 2;
+  widows: 2;
+  text-align: left
+}
+
+.c10 {
+  padding-top: 0;
+  padding-bottom: 0;
+  line-height: 1.0;
+  text-align: left;
+  margin: 0;
+}
+
+.c13 {
+  font-size: 10pt;
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  margin: 0;
+}
+
+.c19 {
+  color: #274472;
+  text-decoration: none;
+  vertical-align: baseline;
+  font-style: normal;
+  margin: 0;
+}
+
+.c21 {
+  color: #000000;
+  text-decoration: none;
+  vertical-align: baseline;
+  font-style: normal;
+  margin: 0;
+}
+
+.c24 {
+  font-size: 10pt;
+  margin: 0;
+}
+
+.c33 {
+  padding-top: 10pt;
+  padding-bottom: 0;
+  line-height: 1.0;
+  text-align: left;
+  margin: 0;
+}
