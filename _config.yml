@@ -21,6 +21,7 @@ baseurl: ""
 url: "https://warrengates.dev"
 
 # Favicon
+# favicon.io, font=bilbo, bgcolor=#5885af, font color=#ffffff
 favicon: images/favicon.png
 
 # Site navigation - each item must have a title and a url.

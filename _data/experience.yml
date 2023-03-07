@@ -40,7 +40,7 @@
   location: Seattle, WA
   details:
     - Developed multi-tenant collaboration web site using Java Server Pages and Microsoft SQL Server to provide private workspaces for environmental remediation project planning
-    - Developed reporting module for multi-tier environmental data management system
+    - Developed Crystal Reports based reporting module for multi-tier environmental data management system
     - Developed GIS module using Esri ArcGIS for multi-tier environmental data management system
     - Tested, debugged, and improved performance of environmental data management system
     - Developed distributed system for project management workload forecasting and tracking
